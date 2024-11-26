@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ebada-naeim
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning SwiftUI
